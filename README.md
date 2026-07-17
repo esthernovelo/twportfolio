@@ -31,6 +31,6 @@ Hi! I'm Jane Smith, a technical writer passionate about creating clear, user-foc
 
 ### Contact
 
-LinkedIn:
-Email:
+LinkedIn: https://www.linkedin.com/in/esther-novelo-627137239/
+Email: esthernovelo93@gmail.com
 Portfolio:
